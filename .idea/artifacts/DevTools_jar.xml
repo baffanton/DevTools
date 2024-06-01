@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DevTools:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DevTools_jar</output-path>
+    <root id="archive" name="DevTools.jar">
+      <element id="module-output" name="DevTools" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/glassfish/web/jakarta.servlet.jsp.jstl/3.0.1/jakarta.servlet.jsp.jstl-3.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/h2database/h2/2.2.220/h2-2.2.220.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
